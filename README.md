@@ -2,6 +2,20 @@
 
 Django CRM is a Customer Relationship Management app through which customer data and be added, accessed, updated and deleted
 
+homepage of crm
+
+![homepage](./screenshots/homepage.png)
+
+Adding records 
+![homepage](./screenshots/crm_add_record.png)
+
+Registering User
+![Register_User](./screenshots/register%20user.png)
+
+Edit/delete Customers 
+![modify_User](./screenshots/view%20record.png)
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
