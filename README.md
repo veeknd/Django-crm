@@ -1,8 +1,8 @@
 # Django CRM
 
-Django CRM is a Customer Relationship Management app through which customer data and be added, accessed, updated and deleted
+Django CRM is a Customer Relationship Management app through which customer data and be added, accessed, updated and deleted.
 
-homepage of crm
+Homepage of CRM
 
 ![homepage](./screenshots/homepage.png)
 
